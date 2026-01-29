@@ -1,5 +1,7 @@
 tqdm
-mayavi
+vtk==9.0.1
+setuptools==61.0.0 -i https://pypi.tuna.tsinghua.edu.cn/simple/
+mayavi==4.7.4 -i https://pypi.tuna.tsinghua.edu.cn/simple/
 matplotlib
 nuscenes-devkit
 configargparse
